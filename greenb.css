@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(67, 182, 67);
+    color: white;
+}
+.about{
+    text-align: center;
+}
+.box{
+    margin: 0 auto;
+    position: relative;
+    width: 250px;
+    text-align: center;
+}
+.xett{
+    width: 100px;
+    height: 1px;
+    background-color: white;
+    position: absolute;
+    top: 10px;
+}
+.xett1{
+    left: 0;
+}
+.xett2{
+    right: 0;
+}
+.textbox{
+    max-width: 800px;
+    margin: 20px auto;
+    position: relative;
+}
+.textbox p{
+    position: absolute;
+    width: 150px;
+
+}
+.lorem1{
+   left: 0;
+}
+.lorem2{
+    right: 0;
+}
